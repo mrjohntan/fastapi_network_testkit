@@ -1,0 +1,4 @@
+fastapi
+pydantic
+telnetlib3
+aiohttp

@@ -1,0 +1,9 @@
+### macOS template
+# General
+.DS_Store
+
+# Python
+.venv
+
+# Pycharm
+.idea
