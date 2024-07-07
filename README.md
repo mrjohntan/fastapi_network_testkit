@@ -1,6 +1,11 @@
 # fastapi_network_testkit
 Implementing a network test kit container with fastapi
 
+# Use case
+Building a container to facilitate network tests during the initial phase of deploying cloud infrastructure.  
+In an enterprise, the production network will often tightly controlled and use of terminals might be discouraged.  
+This containerised api service could be deployed to facilitate network testing.
+
 1. Build containers
 ```
 cd build_images
